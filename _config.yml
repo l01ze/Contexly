@@ -1,0 +1,6 @@
+# _config.yml
+# This file must be in the root of your repository,
+# next to index.html and .env.js.
+
+include:
+  - .env.js
